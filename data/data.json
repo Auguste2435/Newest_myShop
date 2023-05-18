@@ -1,0 +1,243 @@
+{
+    "events_categories": [
+        {
+            "id": "diaryProducts",
+            "title": "Diary products",
+            "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem",
+            "image": "https://images.unsplash.com/photo-1566454825481-4e48f80aa4d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
+        },
+        {
+            "id": "Bakery",
+            "title": "Bakery",
+            "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem",
+            "image": "https://images.unsplash.com/photo-1543876604-b8ac0e7ded00?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+        },
+        {
+            "id": "vegetables",
+            "title": "Vegetables",
+            "description": "corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate.",
+            "image": "https://images.unsplash.com/photo-1566385101042-1a0aa0c1268c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80"
+        },
+        {
+            "id": "Fruits",
+            "title": "Fruits",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1580691155297-c6dfa3ca61c4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+        }
+    ],
+    "allEvents": [
+        {
+            "id": "milk",
+            "title": "Milk",
+            "price": 50,
+            "specCategory": "diaryProducts",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1563636619-e9143da7973b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+            "emails_registered": [
+                "",
+                "gusteg69@gmail.com",
+                "23auka01@lillestromskolen.no"
+            ]
+        },
+        {
+            "id": "butter",
+            "title": "Butter",
+            "price": 60,
+            "specCategory": "diaryProducts",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1603596310923-dbb12732f9c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "emails_registered": [
+                ""
+            ]
+        },
+        {
+            "id": "yogurt",
+            "title": "Yogurt",
+            "price": 55,
+            "specCategory": "diaryProducts",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1639389677904-4bbd9a580d32?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+            "emails_registered": []
+        },
+        {
+            "id": "chesse",
+            "title": "Cheese",
+            "price": 88,
+            "specCategory": "diaryProducts",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1633108199105-d1964ad7f0f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "emails_registered": [
+                "alicia@gmail.com",
+                "monica@gmail.com",
+                ""
+            ]
+        },
+        {
+            "id": "condensedmilk",
+            "title": "Condensed milk",
+            "price": 34,
+            "specCategory": "diaryProducts",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1615110250484-e8c3b151b957?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+            "emails_registered": [
+                "monica@gmail.com"
+            ]
+        },
+        {
+            "id": "cinnamonbun",
+            "title": "Cinnamon bun",
+            "price": 47,
+            "specCategory": "Bakery",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1651604017152-e2c94e9cff1c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+            "emails_registered": [
+                "",
+                "",
+                "",
+                "laura@gmail.com",
+                "laura@gmail.com",
+                "laura@gmail.com",
+                "gusteg69@gmail.com",
+                "ingelele@gmai.com",
+                "gusteg69@gmail.comasdf"
+            ]
+        },
+        {
+            "id": "croissant",
+            "title": "Croissant",
+            "price": 57,
+            "specCategory": "Bakery",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1599940778173-e276d4acb2bb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=855&q=80",
+            "emails_registered": []
+        },
+        {
+            "id": "bread",
+            "title": "Bread",
+            "price": 44,
+            "specCategory": "Bakery",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "emails_registered": []
+        },
+        {
+            "id": "bagel",
+            "title": "Bagel",
+            "price": 54,
+            "specCategory": "Bakery",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1601640790698-5a509963cf01?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "emails_registered": []
+        },
+        {
+            "id": "kiwi",
+            "title": "Kiwi",
+            "price": 76,
+            "specCategory": "Fruits",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1586878018137-3f972630ae43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+            "emails_registered": [
+                "alicia@gmail.com",
+                "monica@gmail.com"
+            ]
+        },
+        {
+            "id": "lemon",
+            "title": "Lemon",
+            "price": 22,
+            "specCategory": "Fruits",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1586878018373-b0e446e52b88?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "emails_registered": [
+                "alicia@gmail.com",
+                "monica@gmail.com",
+                "david@yahoo.com",
+                "claire@ss.com"
+            ]
+        },
+        {
+            "id": "strawberry",
+            "title": "Strawberry",
+            "price": 32,
+            "specCategory": "Fruits",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=415&q=80",
+            "emails_registered": [
+                "alicia@gmail.com",
+                "monica@gmail.com"
+            ]
+        },
+        {
+            "id": "watermelon",
+            "title": "Watermelon",
+            "price": 80,
+            "specCategory": "Fruits",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1581074817932-af423ba4566e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+            "emails_registered": [
+                "alicia@gmail.com",
+                "monica@gmail.com"
+            ]
+        },
+        {
+            "id": "mango",
+            "title": "Mango",
+            "price": 66,
+            "specCategory": "Fruits",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1548587276-785018060579?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80",
+            "emails_registered": [
+                "alicia@gmail.com",
+                "monica@gmail.com"
+            ]
+        },
+        {
+            "id": "tomato",
+            "title": "Tomato",
+            "price": 43,
+            "specCategory": "vegetables",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1607863680026-e113604ccb17?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "emails_registered": [
+                "alicia@gmail.com",
+                "monica@gmail.com"
+            ]
+        },
+        {
+            "id": "greenbrocoli",
+            "title": "Green brocoli",
+            "price": 65,
+            "specCategory": "vegetables",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1459411621453-7b03977f4bfc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=601&q=80",
+            "emails_registered": [
+                "alicia@gmail.com",
+                "monica@gmail.com"
+            ]
+        },
+        {
+            "id": "onion",
+            "title": "Onion",
+            "price": 54,
+            "specCategory": "vegetables",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1587049693270-c7560da11218?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+            "emails_registered": [
+                "alicia@gmail.com",
+                "monica@gmail.com"
+            ]
+        },
+        {
+            "id": "cabbage",
+            "title": "Cabbage",
+            "price": 48,
+            "specCategory": "vegetables",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1611105637889-3afd7295bdbf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+            "emails_registered": [
+                "alicia@gmail.com",
+                "monica@gmail.com"
+            ]
+        }
+    ]
+}
